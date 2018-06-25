@@ -20,12 +20,12 @@ Material Dashboard PRO uses a framework built by our friend [Federico - Bootstra
 
 #### Special thanks
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-[Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
-[Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts
-[Tristan Edwards](https://twitter.com/t4t5) for the [Sweet Alert2](https://sweetalert2.github.io/)
-[Eonasdan](https://github.com/Eonasdan) for the [DateTimPicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
-Kirill Lebedev for [jVector Maps](http://jvectormap.com/)
-[Vincent Gabriel](https://twitter.com/gabrielva) for the [Bootstrap Wizard](http://vinceg.github.io/twitter-bootstrap-wizard/)
+- [Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
+- [Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts
+- [Tristan Edwards](https://twitter.com/t4t5) for the [Sweet Alert2](https://sweetalert2.github.io/)
+- [Eonasdan](https://github.com/Eonasdan) for the - [DateTimPicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
+- Kirill Lebedev for [jVector Maps](http://jvectormap.com/)
+- [Vincent Gabriel](https://twitter.com/gabrielva) for the - [Bootstrap Wizard](http://vinceg.github.io/twitter-bootstrap-wizard/)
 
 
 Let us know your thoughts below. And good luck with development!
