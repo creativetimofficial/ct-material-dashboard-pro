@@ -10,12 +10,12 @@ Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new
 
 Material Dashboard PRO makes use of light, surface and movement. The general layout resembles sheets of paper following multiple layers, so that the depth and order is obvious. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
 
-This daashboard is the bigger version for the [Material Dashboard](http://www.creative-tim.com/product/material-dashboard), which is available for free download. We have created the PRO version based on the feedback we received from people using the demo. We tried to keep it as lean as possible, but provide all the necessary tools for developing a complex product. The result is a powerful dashboard that can easily help you build admin panels, CRMs or content management systems.
+This daashboard is the bigger version for the [Material Dashboard](https://www.creative-tim.com/product/material-dashboard), which is available for free download. We have created the PRO version based on the feedback we received from people using the demo. We tried to keep it as lean as possible, but provide all the necessary tools for developing a complex product. The result is a powerful dashboard that can easily help you build admin panels, CRMs or content management systems.
 
 
 Material Dashboard PRO has the same line of design as the Material Kit PRO, so they go together quite good. If you think you will need more landing and example pages, be sure to check it out. If you love material design, you'll probably enjoy using these products!
 
-Material Dashboard PRO uses a framework built by our friend [Federico - Bootstrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/), who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
+Material Dashboard PRO uses a framework built by our friend Federico - Bootstrap Material Design, who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
 
 
 #### Special thanks
@@ -72,7 +72,7 @@ Let us know your thoughts below. And good luck with development!
 
 Quick start options:
 
-- Buy from [Creative Tim](http://www.creative-tim.com/product/material-dashboard-pro)
+- Buy from [Creative Tim](https://www.creative-tim.com/product/material-dashboard-pro)
 
 
 ## Documentation
@@ -140,8 +140,8 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
-- Material Dashboard - [demo](http://www.creative-tim.com/product/material-dashboard?ref=github-md-pro)
-- For Front End Development - [Material Kit Pro ](http://www.creative-tim.com/product/material-kit-pro?ref=github-md-pro)
+- Material Dashboard - [demo](https://www.creative-tim.com/product/material-dashboard?ref=github-md-pro)
+- For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=github-md-pro)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Material Dashboard Pro. Here are some advices for our users that want to report an issue:
@@ -156,7 +156,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (http://www.creative-tim.com)
+- Copyright 2018 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
@@ -167,7 +167,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
 
-- [Affiliate Program](http://www.creative-tim.com/affiliates/new) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
 ##### Social Media
 
