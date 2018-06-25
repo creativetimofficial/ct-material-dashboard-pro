@@ -15,8 +15,6 @@ This daashboard is the bigger version for the [Material Dashboard](https://www.c
 
 Material Dashboard PRO has the same line of design as the Material Kit PRO, so they go together quite good. If you think you will need more landing and example pages, be sure to check it out. If you love material design, you'll probably enjoy using these products!
 
-Material Dashboard PRO uses a framework built by our friend Federico - Bootstrap Material Design, who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
-
 
 #### Special thanks
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
