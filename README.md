@@ -1,37 +1,70 @@
-# [Material Dashboard PRO](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard,%20a%20free%20Material%20Bootstrap%204%20Admin%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2Lyat1Y%20%23bootstrap%20%23material%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim)
+# [Material Dashboard PRO](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard-pro)
 
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
- ![version](https://img.shields.io/badge/version-2.1.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_bs5_thumbnail.jpg)
 
+The most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Premium Bootstrap 5 Dashboard with a fresh, new design inspired by Google's Material Design 2.
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-pro-html/material-dashboard-pro.gif)
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks, and fully coded pages, Material Dashboard PRO is ready to help you create stunning websites and web apps.
 
-Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. It is based on the popular Bootstrap 4 framework and comes packed with multiple third-party plugins. All components are built to fit perfectly with each other, while aligning to the material concepts.
+We created many examples for pages like Sign In, Profile, and so on. Just choose between a Basic Design, an illustration, or a cover and you are good to go!
 
-Material Dashboard PRO makes use of light, surface and movement. The general layout resembles sheets of paper following multiple layers, so that the depth and order is obvious. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
+Material Dashboard PRO makes use of light, surface and movement. The general layout comes with two modes: Light & Dark. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
 
-This dashboard is the bigger version for the [Material Dashboard](https://www.creative-tim.com/product/material-dashboard), which is available for free download. We have created the PRO version based on the feedback we received from people using the demo. We tried to keep it as lean as possible, but provide all the necessary tools for developing a complex product. The result is a powerful dashboard that can easily help you build admin panels, CRMs or content management systems.
+**Fully Coded Elements**
 
+Material Dashboard PRO is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes.
 
-Material Dashboard PRO has the same line of design as the Material Kit PRO, so they go together quite good. If you think you will need more landing and example pages, be sure to check it out. If you love material design, you'll probably enjoy using these products!
+You will save a lot of time going from prototyping to full-functional code because all elements are implemented.  
 
+This Premium Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,  
+switching from our pages to the real website is very easy to be done.
+
+View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/material-dashboard).
+
+**Documentation built by Developers**
+
+Each element is well presented in very complex documentation.  
+
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard).
+
+**Example Pages**
+
+If you want to get inspiration or just show something directly to your clients,you can jump-start your development with our pre-built example pages.
+You will be able to quickly set up the basic structure for your web project.
+
+View [example pages here](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics).
+
+**HELPFUL LINKS**
+*   View [Github Repository](https://github.com/creativetimofficial/ct-material-dashboard-pro)
+*   Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
-- [Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts
-- [Tristan Edwards](https://twitter.com/t4t5) for the [Sweet Alert2](https://sweetalert2.github.io/)
-- [Eonasdan](https://github.com/Eonasdan) for the - [DateTimPicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
-- Kirill Lebedev for [jVector Maps](http://jvectormap.com/)
-- [Vincent Gabriel](https://twitter.com/gabrielva) for the - [Bootstrap Wizard](http://vinceg.github.io/twitter-bootstrap-wizard/)
+
+- [noUISlider](https://refreshless.com/nouislider/) - JavaScript Range Slider
+- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+- [Flatpickr](https://flatpickr.js.org/) - Useful library used to select date
+- [Choices JS](https://joshuajohnson.co.uk/Choices/) - A nice plugin that select elements with intuitive multiselection and searching but also for managing tags.
+- [CountUp JS](https://inorganik.github.io/countUp.js/) - A dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
+- [Charts Js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
+- [FullCalendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar
+- [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag’n’drop file uploads with image previews.
+- [Datatables](https://github.com/fiduswriter/Simple-DataTables) - DataTables but in Vanilla ES2018 JS
+- [jKanban](http://www.riccardotartaglia.it/jkanban/) - Pure agnostic Javascript plugin for Kanban boards
+- [PhotoSwipe](https://photoswipe.com/) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [Quill](https://quilljs.com/) - A free, open source WYSIWYG editor built for the modern web
+- [Sweet Alerts](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
+- [three.js](https://threejs.org/) - JavaScript 3D library
+- [Wizard](https://www.cssscript.com/multi-step-form-bootstrap/) - Animated Multi-step form for Bootstrap
 
 
 Let us know your thoughts below. And good luck with development!
 
-
 ## Table of Contents
 
-* [Versions](#versions) 
+* [Versions](#versions)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
 * [Documentation](#documentation)
@@ -43,86 +76,74 @@ Let us know your thoughts below. And good luck with development!
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
-
-
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-angular2)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp)
 
-
-
-| HTML | React | Vue | Angular  |
-| --- | --- | --- | ---  |
-| [![Material Dashboard PRO  HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro)  | [![Material Dashboard PRO  React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react)  | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro)  | [![Material Dashboard PRO  Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-angular2) 
-
-
+| HTML |
+| --- |
+| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/487/thumb/opt_sdp_thumbnail.jpg?1622812208)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html?ref=readme-sudp)
 
 ## Demo
 
-- [Start page](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html)
-- [User profile page](https://demos.creative-tim.com/material-dashboard-pro/examples/pages/user.html)
-- [Tables page ](https://demos.creative-tim.com/material-dashboard-pro/examples/tables/extended.html)
-- [Maps Page](https://demos.creative-tim.com/material-dashboard-pro/examples/maps/google.html)
-- [Notifications page](https://demos.creative-tim.com/material-dashboard-pro/examples/components/notifications.html)
+- [Dashboard](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html?ref=readme-sudp)
+- [Automotive](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive.html?ref=readme-sudp)
+- [Virtual Reality](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/vr/vr-default.html?ref=readme-sudp)
+- [Profile](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/profile/overview.html?ref=readme-sudp)
+- [Account](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/account/settings.html?ref=readme-sudp)
+- [RTL](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/rtl-page.html?ref=readme-sudp)
+- [Applications](https://demos.creative-tim.com/material-dashboard-pro/pages/applications/kanban.html?ref=readme-sudp)
+- [Ecommerce](https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/overview.html?ref=readme-sudp)
+- [Sign In](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic.html?ref=readme-sudp)
+- [Sign Up](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signup/basic.html?ref=readme-sudp)
 
-[View More](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html).
-
+[View More](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp).
 
 ## Quick start
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/material-dashboard-pro)
+Quick start options:
 
+- Buy from [Creative Tim](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp).
+
+## Terminal Commands
+
+1. Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
-The documentation for the Material Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html).
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp).
 
+### What's included
 
-## File Structure
 Within the download you'll find the following directories and files:
 
 ```
-material-dashboard-pro/
-├── CHANGELOG.md
-├── README.md
-├── assets/
-│   ├── css/
-│   │   ├── material-dashboard.css
-│   │   ├── material-dashboard.css.map
-│   │   ├── material-dashboard.min.css
-│   ├── demo/
-│   │   ├── demo.css
-│   │   └── demo.js
-│   ├── img/
-│   ├── js/
-│   │   ├── core/
-│   │   │   ├── bootstrap-material-design.min.js
-│   │   │   ├── jquery.min.js
-│   │   │   └── popper.min.js
-│   │   ├── material-dashboard.js
-│   │   ├── material-dashboard.js.map
-│   │   ├── material-dashboard.min.js
-│   │   └── plugins/
-│   └── scss/
-│       ├── material-dashboard/
-│       └── material-dashboard.scss
-├── docs
-│   └── documentation.html
-├── examples
-│   ├── dashboard.html
-│   ├── calendar.html
-│   ├── charts.html
-│   ├── components/
-│   ├── forms/
-│   ├── maps/
-│   ├── pages/
-│   ├── tables/
-│   └── widgets.html
-├── gulpfile.js
-├── package.json
-└── template.html
-
+material-dashboard-pro
+    ├── assets
+    │   ├── css
+    │   ├── fonts
+    │   ├── img
+    │   ├── js
+    │   │   ├── core
+    │   │   ├── plugins
+    │   │   └── points.json
+    │   │   └── material-dashboard.min.js
+    │   └── scss
+    │       ├── material-dashboard-pro
+    │       └── material-dashboard.scss
+    ├── docs
+    │   ├── documentation.html
+    ├── pages
+    │   ├── applications
+    │   ├── authentication
+    │   ├── dashboards
+    │   ├── ecommerce
+    │   ├── pages
+    ├── CHANGELOG.md
+    ├── gulpfile.js
+    ├── package.json
+    ├── presentation.html
 ```
-
 
 ## Browser Support
 
@@ -130,46 +151,51 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-
-
 ## Resources
-- Demo: <https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html>
-- Download Page: <https://www.creative-tim.com/product/material-dashboard-pro>
-- Documentation: <https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
+- [Live Preview](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/default.html?ref=readme-sudp)
+- [Buy Page](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-sudp)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-sudp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
-- [Material Kit](https://www.creative-tim.com/product/material-kit?ref=github-md-free) - For Front End Development
 
 ## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Material Dashboard PRO. Here are some advices for our users that want to report an issue:
 
-We use GitHub Issues as the official bug tracker for the Material Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the Material Dashboard PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
-
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sudp) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/)
-
-- Creative Tim [license](https://www.creative-tim.com/license)
-
-
+- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudp)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudp)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-sudp) from Creative Tim
+
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
+
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudp) from Creative Tim
+
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudp) (earn money)
+
+- [More products](https://www.creative-tim.com/templates) from Creative Tim
+
+- [Bundles](https://www.creative-tim.com/bundles)
+
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+
+- [Material Design](https://www.creative-tim.com/design-system/material)
+
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
+
+- [Get Discount](https://www.creative-tim.com/coupon)
 
 ##### Social Media
 
@@ -179,7 +205,6 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Google+: <https://plus.google.com/+CreativetimPage>
+TikTok: <https://tiktok.com/@creative.tim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
-
+Instagram: <https://instagram.com/creativetimofficial>
