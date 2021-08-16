@@ -82,20 +82,20 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML |
 | --- |
-| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/487/thumb/opt_sdp_thumbnail.jpg?1622812208)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html?ref=readme-sudp)
+| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_bs5_thumbnail.jpg)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
 
 ## Demo
 
-- [Dashboard](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html?ref=readme-sudp)
-- [Automotive](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive.html?ref=readme-sudp)
-- [Virtual Reality](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/vr/vr-default.html?ref=readme-sudp)
-- [Profile](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/profile/overview.html?ref=readme-sudp)
-- [Account](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/account/settings.html?ref=readme-sudp)
-- [RTL](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/rtl-page.html?ref=readme-sudp)
-- [Applications](https://demos.creative-tim.com/material-dashboard-pro/pages/applications/kanban.html?ref=readme-sudp)
-- [Ecommerce](https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/overview.html?ref=readme-sudp)
-- [Sign In](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic.html?ref=readme-sudp)
-- [Sign Up](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signup/basic.html?ref=readme-sudp)
+- [Dashboard](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
+- [Automotive](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive?ref=readme-sudp)
+- [Virtual Reality](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/vr/vr-default?ref=readme-sudp)
+- [Profile](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/profile/overview?ref=readme-sudp)
+- [Account](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/account/settings?ref=readme-sudp)
+- [RTL](https://demos.creative-tim.com/material-dashboard-pro/pages/pages/rtl-page?ref=readme-sudp)
+- [Applications](https://demos.creative-tim.com/material-dashboard-pro/pages/applications/kanban?ref=readme-sudp)
+- [Ecommerce](https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/overview?ref=readme-sudp)
+- [Sign In](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic?ref=readme-sudp)
+- [Sign Up](https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signup/basic?ref=readme-sudp)
 
 [View More](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp).
 
@@ -152,7 +152,7 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/default.html?ref=readme-sudp)
+- [Live Preview](https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/default?ref=readme-sudp)
 - [Buy Page](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp)
 - Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sudp)
