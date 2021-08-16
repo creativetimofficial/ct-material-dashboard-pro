@@ -185,15 +185,9 @@ If you have questions or need help integrating the product please [contact us](h
 
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudp) (earn money)
 
-- [More products](https://www.creative-tim.com/templates) from Creative Tim
-
 - [Bundles](https://www.creative-tim.com/bundles)
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
 - [Material Design](https://www.creative-tim.com/design-system/material)
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
 - [Get Discount](https://www.creative-tim.com/coupon)
 
