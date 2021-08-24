@@ -1,5 +1,14 @@
 # Change Log
 
+## [3.0.1] 2021-08-24
+### Update and Improvements
+- Fix broken links
+- Fix Documentation links
+- Fix old Documentation styling
+- Fix sidebar logo color on dark-version
+- Update background-color
+- Update pricing
+
 ## [3.0.0] 2021-08-16
 ### Update and Improvements
 - Update Bootstrap to v5.1.0
