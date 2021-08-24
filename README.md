@@ -1,8 +1,8 @@
 # [Material Dashboard PRO](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard-pro)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_bs5_thumbnail.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)
 
 The most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Premium Bootstrap 5 Dashboard with a fresh, new design inspired by Google's Material Design 2.
 
@@ -82,7 +82,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML |
 | --- |
-| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_bs5_thumbnail.jpg)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
+| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
 
 ## Demo
 
