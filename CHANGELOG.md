@@ -1,5 +1,20 @@
 # Change Log
 
+## [3.0.3] 2022-03-07
+### Update and Improvements
+- fix running 'npm install' issue
+- fix SCSS compiling issues
+
+## [3.0.2] 2021-12-14
+### Update and Improvements
+- Update Bootstrap to v5.1.3
+- Add new page - Chat/messages
+- Fix sidebar scroll issue
+- Fix Authentication Pages navbar issue
+- Update inputs to work with 'value'
+- Fix Dark Mode issues for dropdowns, blur cards
+- Fix sidebar background color on resize
+
 ## [3.0.1] 2021-08-24
 ### Update and Improvements
 - Fix broken links

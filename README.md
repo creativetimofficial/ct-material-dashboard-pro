@@ -1,12 +1,12 @@
 # [Material Dashboard 2 PRO](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard-pro) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
-![version](https://img.shields.io/badge/version-3.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.3-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)
 
 The most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Premium Bootstrap 5 Dashboard with a fresh, new design inspired by Google's Material Design 2.
 
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks, and fully coded pages, Material Dashboard PRO is ready to help you create stunning websites and web apps.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks, and fully coded pages, Material Dashboard 2 PRO is ready to help you create stunning websites and web apps.
 
 We created many examples for pages like Sign In, Profile, and so on. Just choose between a Basic Design, an illustration, or a cover and you are good to go!
 
@@ -38,43 +38,43 @@ View [example pages here](https://demos.creative-tim.com/material-dashboard-pro/
 
 **HELPFUL LINKS**
 *   View [Github Repository](https://github.com/creativetimofficial/ct-material-dashboard-pro)
-*   Check [FAQ Page](https://www.creative-tim.com/faq)
+*   Check [Knowlegde Center Page](https://www.creative-tim.com/knowledge-center)
 
-#### Special thanks
+#### Special thanksm
+
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [noUISlider](https://refreshless.com/nouislider/) - JavaScript Range Slider
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-- [Flatpickr](https://flatpickr.js.org/) - Useful library used to select date
-- [Choices JS](https://joshuajohnson.co.uk/Choices/) - A nice plugin that select elements with intuitive multiselection and searching but also for managing tags.
-- [CountUp JS](https://inorganik.github.io/countUp.js/) - A dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
-- [Charts Js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
-- [FullCalendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar
-- [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag’n’drop file uploads with image previews.
-- [Datatables](https://github.com/fiduswriter/Simple-DataTables) - DataTables but in Vanilla ES2018 JS
-- [jKanban](http://www.riccardotartaglia.it/jkanban/) - Pure agnostic Javascript plugin for Kanban boards
-- [PhotoSwipe](https://photoswipe.com/) - JavaScript image gallery for mobile and desktop, modular, framework independent
-- [Quill](https://quilljs.com/) - A free, open source WYSIWYG editor built for the modern web
-- [Sweet Alerts](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
-- [three.js](https://threejs.org/) - JavaScript 3D library
-- [Wizard](https://www.cssscript.com/multi-step-form-bootstrap/) - Animated Multi-step form for Bootstrap
-
+-   [noUISlider](https://refreshless.com/nouislider/) - JavaScript Range Slider
+-   [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+-   [Flatpickr](https://flatpickr.js.org/) - Useful library used to select date
+-   [Choices JS](https://joshuajohnson.co.uk/Choices/) - A nice plugin that select elements with intuitive multiselection and searching but also for managing tags.
+-   [CountUp JS](https://inorganik.github.io/countUp.js/) - A dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
+-   [Charts Js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
+-   [FullCalendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar
+-   [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag’n’drop file uploads with image previews.
+-   [Datatables](https://github.com/fiduswriter/Simple-DataTables) - DataTables but in Vanilla ES2018 JS
+-   [jKanban](http://www.riccardotartaglia.it/jkanban/) - Pure agnostic Javascript plugin for Kanban boards
+-   [PhotoSwipe](https://photoswipe.com/) - JavaScript image gallery for mobile and desktop, modular, framework independent
+-   [Quill](https://quilljs.com/) - A free, open source WYSIWYG editor built for the modern web
+-   [Sweet Alerts](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
+-   [three.js](https://threejs.org/) - JavaScript 3D library
+-   [Wizard](https://www.cssscript.com/multi-step-form-bootstrap/) - Animated Multi-step form for Bootstrap
 
 Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+-   [Versions](#versions)
+-   [Demo](#demo)
+-   [Quick Start](#quick-start)
+-   [Documentation](#documentation)
+-   [File Structure](#file-structure)
+-   [Browser Support](#browser-support)
+-   [Resources](#resources)
+-   [Reporting Issues](#reporting-issues)
+-   [Technical Support or Questions](#technical-support-or-questions)
+-   [Licensing](#licensing)
+-   [Useful Links](#useful-links)
 
 ## Versions
 
@@ -82,7 +82,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML |
 | --- |
-| [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
+| [![Material Dashboard 2 PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp)
 
 ## Demo
 
@@ -107,8 +107,8 @@ Quick start options:
 
 ## Terminal Commands
 
-1. Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root / directory and run npm install to install our local dependencies.
+1.  Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
+2.  Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
 The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp).
@@ -160,9 +160,9 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Material Dashboard PRO. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Material Dashboard 2 PRO. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp).
+1. Make sure that you are using the latest version of the Material Dashboard 2 PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-sudp).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -172,8 +172,8 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudp)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudp)
+-   Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudp)
+-   Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudp)
 
 ## Useful Links
 

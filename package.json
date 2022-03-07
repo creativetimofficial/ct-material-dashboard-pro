@@ -1,0 +1,47 @@
+{
+  "name": "material-dashboard-pro",
+  "version": "3.0.3",
+  "description": "Premium Dashboard for Bootstrap 5",
+  "main": "dashboards/default.html",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "open-app": "gulp open-app",
+    "start": "npm run open-app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp-watch"
+  },
+  "keywords": [
+    "material dashboard pro",
+    "bootstrap 5",
+    "dashboard",
+    "admin dashboard",
+    "creative tim",
+    "html dashboard",
+    "html css dashboard",
+    "web dashboard",
+    "premium",
+    "premium bootstrap admin dashboard",
+    "css3 kit",
+    "bootstrap dashboard",
+    "frontend",
+    "responsive bootstrap admin dashboard"
+  ],
+  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "license": "Premium",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/ct-material-dashboard-pro/issues"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1",
+    "sass": "^1.49.9"
+  },
+  "homepage": "https://creative-tim.com/product/material-dashboard-pro"
+}
