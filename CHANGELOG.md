@@ -1,5 +1,42 @@
 # Change Log
 
+## [3.0.6] 2022-10-10
+### Updates & Improvements
+- update Bootstrap to v5.2.2
+- update Popper to v2.11.6
+- add new page: Validation Page
+- update `start-0` and `end-0` classes on RTL
+- fix perfectScrollbar issue on RTL
+- fix the NavTabs second active tab issue
+- move the flatpickr init on the main JS file
+
+## [3.0.5] 2022-06-14
+### BugFixing
+- fix inputs on RTL
+- update <html> tag border
+
+## [3.0.4] 2022-06-07
+### Update and Improvements
+- update Bootstrap to v5.2.0-beta1
+- fix modal close button on docs
+- update color of `.form-control` on Dark
+- fix Chat Page on responsive
+
+## [3.0.3] 2022-03-07
+### Update and Improvements
+- fix running 'npm install' issue
+- fix SCSS compiling issues
+
+## [3.0.2] 2021-12-14
+### Update and Improvements
+- Update Bootstrap to v5.1.3
+- Add new page - Chat/messages
+- Fix sidebar scroll issue
+- Fix Authentication Pages navbar issue
+- Update inputs to work with 'value'
+- Fix Dark Mode issues for dropdowns, blur cards
+- Fix sidebar background color on resize
+
 ## [3.0.1] 2021-08-24
 ### Update and Improvements
 - Fix broken links
