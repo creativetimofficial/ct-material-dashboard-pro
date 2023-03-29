@@ -1,4 +1,4 @@
-# [Material Dashboard 2 PRO](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard-pro) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
+# [Material Dashboard 2 PRO](http://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-pro&text=Check%Material%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard-pro) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
 ![version](https://img.shields.io/badge/version-3.0.6-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -11,6 +11,8 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 We created many examples for pages like Sign In, Profile, and so on. Just choose between a Basic Design, an illustration, or a cover and you are good to go!
 
 Material Dashboard 2 PRO makes use of light, surface and movement. The general layout comes with two modes: Light & Dark. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
+
+[Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Dashboard 2 PRO. You can use it to gain insights into your sources of traffic.
 
 **Fully Coded Elements**
 
@@ -64,17 +66,22 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
--   [Versions](#versions)
--   [Demo](#demo)
--   [Quick Start](#quick-start)
--   [Documentation](#documentation)
--   [File Structure](#file-structure)
--   [Browser Support](#browser-support)
--   [Resources](#resources)
--   [Reporting Issues](#reporting-issues)
--   [Technical Support or Questions](#technical-support-or-questions)
--   [Licensing](#licensing)
--   [Useful Links](#useful-links)
+- [Material Dashboard 2 PRO  ](#material-dashboard-2-pro--)
+      - [Special thanksm](#special-thanksm)
+  - [Table of Contents](#table-of-contents)
+  - [Versions](#versions)
+  - [Demo](#demo)
+  - [Quick start](#quick-start)
+  - [Terminal Commands](#terminal-commands)
+  - [Documentation](#documentation)
+    - [What's included](#whats-included)
+  - [Browser Support](#browser-support)
+  - [Resources](#resources)
+  - [Reporting Issues](#reporting-issues)
+  - [Technical Support or Questions](#technical-support-or-questions)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+        - [Social Media](#social-media)
 
 ## Versions
 
@@ -111,7 +118,7 @@ Quick start options:
 2.  Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp).
+The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-sudp).
 
 ### What's included
 
@@ -158,6 +165,7 @@ At present, we officially aim to support the last two versions of the following 
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sudp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-sudp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Material Dashboard 2 PRO. Here are some advices for our users that want to report an issue:
@@ -172,7 +180,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
--   Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudp)
+-   Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-sudp)
 -   Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudp)
 
 ## Useful Links
