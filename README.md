@@ -12,8 +12,6 @@ We created many examples for pages like Sign In, Profile, and so on. Just choose
 
 Material Dashboard 2 PRO makes use of light, surface and movement. The general layout comes with two modes: Light & Dark. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
 
-[Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Dashboard 2 PRO. You can use it to gain insights into your sources of traffic.
-
 **Fully Coded Elements**
 
 Material Dashboard 2 PRO is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes.
@@ -42,7 +40,7 @@ View [example pages here](https://demos.creative-tim.com/material-dashboard-pro/
 *   View [Github Repository](https://github.com/creativetimofficial/ct-material-dashboard-pro)
 *   Check [Knowlegde Center Page](https://www.creative-tim.com/knowledge-center)
 
-#### Special thanksm
+#### Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
@@ -61,6 +59,7 @@ During the development of this dashboard, we have used many existing resources f
 -   [Sweet Alerts](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
 -   [three.js](https://threejs.org/) - JavaScript 3D library
 -   [Wizard](https://www.cssscript.com/multi-step-form-bootstrap/) - Animated Multi-step form for Bootstrap
+-   [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Dashboard 2 PRO. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
